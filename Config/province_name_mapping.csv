@@ -1,0 +1,35 @@
+boundary_code,boundary_name,province,official_name
+11,北京市,北京,Beijing
+12,天津市,天津,Tianjin
+13,河北省,河北,Hebei
+14,山西省,山西,Shanxi
+15,内蒙古自治区,内蒙古,Inner Mongolia
+21,辽宁省,辽宁,Liaoning
+22,吉林省,吉林,Jilin
+23,黑龙江省,黑龙江,Heilongjiang
+31,上海市,上海,Shanghai
+32,江苏省,江苏,Jiangsu
+33,浙江省,浙江,Zhejiang
+34,安徽省,安徽,Anhui
+35,福建省,福建,Fujian
+36,江西省,江西,Jiangxi
+37,山东省,山东,Shandong
+41,河南省,河南,Henan
+42,湖北省,湖北,Hubei
+43,湖南省,湖南,Hunan
+44,广东省,广东,Guangdong
+45,广西壮族自治区,广西,Guangxi
+46,海南省,海南,Hainan
+50,重庆市,重庆,Chongqing
+51,四川省,四川,Sichuan
+52,贵州省,贵州,Guizhou
+53,云南省,云南,Yunnan
+54,西藏自治区,西藏,Tibet
+61,陕西省,陕西,Shaanxi
+62,甘肃省,甘肃,Gansu
+63,青海省,青海,Qinghai
+64,宁夏回族自治区,宁夏,Ningxia
+65,新疆维吾尔自治区,新疆,Xinjiang
+71,台湾省,台湾,Taiwan
+81,香港特别行政区,香港,Hong Kong
+82,澳门特别行政区,澳门,Macao

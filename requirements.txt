@@ -1,0 +1,17 @@
+numpy
+pandas
+pyarrow
+xarray
+netCDF4
+geopandas
+shapely
+pyogrio
+pyproj
+rasterio
+matplotlib
+libpysal
+esda
+scikit-learn
+xgboost
+shap
+joblib

@@ -1,0 +1,2 @@
+﻿comparison,analysis_target,benchmark,formula,r2,rmse,mae,n_test,maximum_absolute_identity_error,mean_absolute_identity_error,included_in_primary_b1
+festival_pre,pollution,accounting_identity,pre_mean_count * festival_pre_pm25_change,1.0,0.0,0.0,12069,0.0,0.0,False

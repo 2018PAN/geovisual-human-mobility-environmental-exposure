@@ -1,0 +1,5 @@
+﻿variable,comparison,moran_i,expected_i,z_score,p_value,permutations,n_grids,weight_method,projected_crs,distance_threshold_m,row_standardization,island_count,random_seed
+festival_pre_mobility_component,festival_pre,0.18771014071903858,-1.696093895758069e-05,194.92459731075186,0.001,999,58960,DistanceBand,EPSG:3857,50000.0,r,60,
+festival_pre_pollution_component,festival_pre,0.26704797575492345,-1.696093895758069e-05,268.6819252213539,0.001,999,58960,DistanceBand,EPSG:3857,50000.0,r,60,
+post_festival_mobility_component,post_festival,0.1937675018687232,-1.696093895758069e-05,194.41972434593444,0.001,999,58960,DistanceBand,EPSG:3857,50000.0,r,60,
+post_festival_pollution_component,post_festival,0.28735607323514784,-1.696093895758069e-05,290.72151313789686,0.001,999,58960,DistanceBand,EPSG:3857,50000.0,r,60,

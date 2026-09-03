@@ -1,0 +1,10 @@
+group,file_count,size_gib,github_status,reason
+RawData/Population,975,80.170,excluded_confidential,"Commercial platform records and official population values; never upload"
+New/Output/Population,161,86.530,excluded_confidential,"Direct calibrated population products and diagnostics; never upload"
+New/Output/Aggregated,87,2.915,aggregate_summaries_only,"Hourly/daily/period grids contain population values; only non-population-bearing publication summaries are eligible"
+New/Output/Exposure,161,1.679,excluded_grid_level,"Hourly and point exposure products contain population-derived grid or record values"
+New/Output/Decomposition,5,0.036,three_summaries_included,"Grid-level input and decomposition tables excluded; national/provincial/component summaries included"
+New/Output/Modeling,82,1.615,summary_tables_only,"Inputs, predictions, SHAP rows, and model binaries excluded; metrics and feature-importance summaries included"
+New/Output/SpatialAnalysis,20,0.117,summary_tables_only,"Grid-level LISA Parquet files excluded; Global Moran and aggregate cluster summaries included"
+New/Output/Figures,502,0.535,excluded_not_data,"Generated figures are outside this data-and-code repository package"
+RawData/non-population sources,57,5.465,documented_only,"Licensed third-party rasters/NetCDF and large source collections are inventoried but not redistributed"

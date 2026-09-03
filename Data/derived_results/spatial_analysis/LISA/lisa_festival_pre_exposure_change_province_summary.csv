@@ -1,0 +1,205 @@
+﻿variable,province,lisa_cluster,grid_count,share_within_province
+festival_pre_exposure_change,上海,High-High,0,0.0
+festival_pre_exposure_change,上海,Low-Low,59,1.0
+festival_pre_exposure_change,上海,High-Low,0,0.0
+festival_pre_exposure_change,上海,Low-High,0,0.0
+festival_pre_exposure_change,上海,Not significant,0,0.0
+festival_pre_exposure_change,上海,NoData,0,0.0
+festival_pre_exposure_change,云南,High-High,0,0.0
+festival_pre_exposure_change,云南,Low-Low,248,0.06583488186886116
+festival_pre_exposure_change,云南,High-Low,0,0.0
+festival_pre_exposure_change,云南,Low-High,0,0.0
+festival_pre_exposure_change,云南,Not significant,3493,0.9272630740642421
+festival_pre_exposure_change,云南,NoData,26,0.006902044066896735
+festival_pre_exposure_change,内蒙古,High-High,10,0.0011500862564692352
+festival_pre_exposure_change,内蒙古,Low-Low,10,0.0011500862564692352
+festival_pre_exposure_change,内蒙古,High-Low,0,0.0
+festival_pre_exposure_change,内蒙古,Low-High,12,0.0013801035077630822
+festival_pre_exposure_change,内蒙古,Not significant,7129,0.8198964922369177
+festival_pre_exposure_change,内蒙古,NoData,1534,0.17642323174238067
+festival_pre_exposure_change,北京,High-High,84,0.5316455696202531
+festival_pre_exposure_change,北京,Low-Low,0,0.0
+festival_pre_exposure_change,北京,High-Low,0,0.0
+festival_pre_exposure_change,北京,Low-High,19,0.12025316455696203
+festival_pre_exposure_change,北京,Not significant,55,0.34810126582278483
+festival_pre_exposure_change,北京,NoData,0,0.0
+festival_pre_exposure_change,台湾,High-High,22,0.06111111111111111
+festival_pre_exposure_change,台湾,Low-Low,0,0.0
+festival_pre_exposure_change,台湾,High-Low,0,0.0
+festival_pre_exposure_change,台湾,Low-High,21,0.058333333333333334
+festival_pre_exposure_change,台湾,Not significant,317,0.8805555555555555
+festival_pre_exposure_change,台湾,NoData,0,0.0
+festival_pre_exposure_change,吉林,High-High,0,0.0
+festival_pre_exposure_change,吉林,Low-Low,142,0.0787139689578714
+festival_pre_exposure_change,吉林,High-Low,0,0.0
+festival_pre_exposure_change,吉林,Low-High,0,0.0
+festival_pre_exposure_change,吉林,Not significant,1627,0.9018847006651884
+festival_pre_exposure_change,吉林,NoData,35,0.019401330376940133
+festival_pre_exposure_change,四川,High-High,268,0.06777946383409206
+festival_pre_exposure_change,四川,Low-Low,112,0.02832574607991907
+festival_pre_exposure_change,四川,High-Low,67,0.016944865958523014
+festival_pre_exposure_change,四川,Low-High,14,0.0035407182599898838
+festival_pre_exposure_change,四川,Not significant,3098,0.7835103692463329
+festival_pre_exposure_change,四川,NoData,395,0.09989883662114314
+festival_pre_exposure_change,天津,High-High,106,0.9380530973451328
+festival_pre_exposure_change,天津,Low-Low,0,0.0
+festival_pre_exposure_change,天津,High-Low,0,0.0
+festival_pre_exposure_change,天津,Low-High,7,0.061946902654867256
+festival_pre_exposure_change,天津,Not significant,0,0.0
+festival_pre_exposure_change,天津,NoData,0,0.0
+festival_pre_exposure_change,宁夏,High-High,0,0.0
+festival_pre_exposure_change,宁夏,Low-Low,0,0.0
+festival_pre_exposure_change,宁夏,High-Low,0,0.0
+festival_pre_exposure_change,宁夏,Low-High,0,0.0
+festival_pre_exposure_change,宁夏,Not significant,483,0.9797160243407708
+festival_pre_exposure_change,宁夏,NoData,10,0.02028397565922921
+festival_pre_exposure_change,安徽,High-High,343,0.2523914643119941
+festival_pre_exposure_change,安徽,Low-Low,194,0.14275202354672553
+festival_pre_exposure_change,安徽,High-Low,45,0.033112582781456956
+festival_pre_exposure_change,安徽,Low-High,6,0.004415011037527594
+festival_pre_exposure_change,安徽,Not significant,771,0.5673289183222958
+festival_pre_exposure_change,安徽,NoData,0,0.0
+festival_pre_exposure_change,山东,High-High,1058,0.7158322056833559
+festival_pre_exposure_change,山东,Low-Low,16,0.010825439783491205
+festival_pre_exposure_change,山东,High-Low,5,0.0033829499323410014
+festival_pre_exposure_change,山东,Low-High,17,0.011502029769959404
+festival_pre_exposure_change,山东,Not significant,381,0.2577807848443843
+festival_pre_exposure_change,山东,NoData,1,0.0006765899864682003
+festival_pre_exposure_change,山西,High-High,471,0.3113020489094514
+festival_pre_exposure_change,山西,Low-Low,0,0.0
+festival_pre_exposure_change,山西,High-Low,0,0.0
+festival_pre_exposure_change,山西,Low-High,218,0.1440846001321877
+festival_pre_exposure_change,山西,Not significant,823,0.5439524124256444
+festival_pre_exposure_change,山西,NoData,1,0.0006609385327164573
+festival_pre_exposure_change,广东,High-High,58,0.03254769921436588
+festival_pre_exposure_change,广东,Low-Low,253,0.1419753086419753
+festival_pre_exposure_change,广东,High-Low,23,0.012906846240179574
+festival_pre_exposure_change,广东,Low-High,20,0.01122334455667789
+festival_pre_exposure_change,广东,Not significant,1428,0.8013468013468014
+festival_pre_exposure_change,广东,NoData,0,0.0
+festival_pre_exposure_change,广西,High-High,159,0.06706031210459722
+festival_pre_exposure_change,广西,Low-Low,103,0.043441585828764236
+festival_pre_exposure_change,广西,High-Low,26,0.010965837199493884
+festival_pre_exposure_change,广西,Low-High,12,0.005061155630535639
+festival_pre_exposure_change,广西,Not significant,2071,0.873471109236609
+festival_pre_exposure_change,广西,NoData,0,0.0
+festival_pre_exposure_change,新疆,High-High,0,0.0
+festival_pre_exposure_change,新疆,Low-Low,273,0.04073410922112802
+festival_pre_exposure_change,新疆,High-Low,0,0.0
+festival_pre_exposure_change,新疆,Low-High,0,0.0
+festival_pre_exposure_change,新疆,Not significant,4252,0.6344374813488511
+festival_pre_exposure_change,新疆,NoData,2177,0.3248284094300209
+festival_pre_exposure_change,江苏,High-High,232,0.2374616171954964
+festival_pre_exposure_change,江苏,Low-Low,411,0.42067553735926305
+festival_pre_exposure_change,江苏,High-Low,36,0.0368474923234391
+festival_pre_exposure_change,江苏,Low-High,11,0.011258955987717503
+festival_pre_exposure_change,江苏,Not significant,286,0.29273285568065505
+festival_pre_exposure_change,江苏,NoData,1,0.0010235414534288639
+festival_pre_exposure_change,江西,High-High,114,0.06900726392251816
+festival_pre_exposure_change,江西,Low-Low,15,0.009079903147699757
+festival_pre_exposure_change,江西,High-Low,27,0.016343825665859565
+festival_pre_exposure_change,江西,Low-High,11,0.006658595641646489
+festival_pre_exposure_change,江西,Not significant,1483,0.8976997578692494
+festival_pre_exposure_change,江西,NoData,2,0.0012106537530266344
+festival_pre_exposure_change,河北,High-High,910,0.5030403537866225
+festival_pre_exposure_change,河北,Low-Low,0,0.0
+festival_pre_exposure_change,河北,High-Low,0,0.0
+festival_pre_exposure_change,河北,Low-High,32,0.017689331122166942
+festival_pre_exposure_change,河北,Not significant,867,0.4792703150912106
+festival_pre_exposure_change,河北,NoData,0,0.0
+festival_pre_exposure_change,河南,High-High,1229,0.7690863579474343
+festival_pre_exposure_change,河南,Low-Low,0,0.0
+festival_pre_exposure_change,河南,High-Low,0,0.0
+festival_pre_exposure_change,河南,Low-High,76,0.04755944931163955
+festival_pre_exposure_change,河南,Not significant,293,0.18335419274092615
+festival_pre_exposure_change,河南,NoData,0,0.0
+festival_pre_exposure_change,浙江,High-High,0,0.0
+festival_pre_exposure_change,浙江,Low-Low,616,0.616
+festival_pre_exposure_change,浙江,High-Low,21,0.021
+festival_pre_exposure_change,浙江,Low-High,0,0.0
+festival_pre_exposure_change,浙江,Not significant,363,0.363
+festival_pre_exposure_change,浙江,NoData,0,0.0
+festival_pre_exposure_change,海南,High-High,0,0.0
+festival_pre_exposure_change,海南,Low-Low,47,0.13352272727272727
+festival_pre_exposure_change,海南,High-Low,0,0.0
+festival_pre_exposure_change,海南,Low-High,0,0.0
+festival_pre_exposure_change,海南,Not significant,304,0.8636363636363636
+festival_pre_exposure_change,海南,NoData,1,0.002840909090909091
+festival_pre_exposure_change,湖北,High-High,296,0.16371681415929204
+festival_pre_exposure_change,湖北,Low-Low,55,0.030420353982300884
+festival_pre_exposure_change,湖北,High-Low,36,0.01991150442477876
+festival_pre_exposure_change,湖北,Low-High,17,0.009402654867256638
+festival_pre_exposure_change,湖北,Not significant,1404,0.7765486725663717
+festival_pre_exposure_change,湖北,NoData,0,0.0
+festival_pre_exposure_change,湖南,High-High,532,0.2546673049305888
+festival_pre_exposure_change,湖南,Low-Low,21,0.010052656773575874
+festival_pre_exposure_change,湖南,High-Low,43,0.0205840114887506
+festival_pre_exposure_change,湖南,Low-High,26,0.01244614648157013
+festival_pre_exposure_change,湖南,Not significant,1465,0.7012924844423168
+festival_pre_exposure_change,湖南,NoData,2,0.0009573958831977022
+festival_pre_exposure_change,澳门,High-High,0,0.0
+festival_pre_exposure_change,澳门,Low-Low,1,1.0
+festival_pre_exposure_change,澳门,High-Low,0,0.0
+festival_pre_exposure_change,澳门,Low-High,0,0.0
+festival_pre_exposure_change,澳门,Not significant,0,0.0
+festival_pre_exposure_change,澳门,NoData,0,0.0
+festival_pre_exposure_change,甘肃,High-High,0,0.0
+festival_pre_exposure_change,甘肃,Low-Low,56,0.019080068143100513
+festival_pre_exposure_change,甘肃,High-Low,1,0.00034071550255536625
+festival_pre_exposure_change,甘肃,Low-High,0,0.0
+festival_pre_exposure_change,甘肃,Not significant,2472,0.8422487223168654
+festival_pre_exposure_change,甘肃,NoData,406,0.1383304940374787
+festival_pre_exposure_change,福建,High-High,22,0.018257261410788383
+festival_pre_exposure_change,福建,Low-Low,80,0.06639004149377593
+festival_pre_exposure_change,福建,High-Low,19,0.015767634854771784
+festival_pre_exposure_change,福建,Low-High,2,0.0016597510373443983
+festival_pre_exposure_change,福建,Not significant,1080,0.8962655601659751
+festival_pre_exposure_change,福建,NoData,2,0.0016597510373443983
+festival_pre_exposure_change,西藏,High-High,0,0.0
+festival_pre_exposure_change,西藏,Low-Low,19,0.004432003732213669
+festival_pre_exposure_change,西藏,High-Low,0,0.0
+festival_pre_exposure_change,西藏,Low-High,0,0.0
+festival_pre_exposure_change,西藏,Not significant,2382,0.5556333100069979
+festival_pre_exposure_change,西藏,NoData,1886,0.4399346862607884
+festival_pre_exposure_change,贵州,High-High,0,0.0
+festival_pre_exposure_change,贵州,Low-Low,180,0.10327022375215146
+festival_pre_exposure_change,贵州,High-Low,0,0.0
+festival_pre_exposure_change,贵州,Low-High,0,0.0
+festival_pre_exposure_change,贵州,Not significant,1563,0.8967297762478486
+festival_pre_exposure_change,贵州,NoData,0,0.0
+festival_pre_exposure_change,辽宁,High-High,167,0.11827195467422097
+festival_pre_exposure_change,辽宁,Low-Low,38,0.026912181303116147
+festival_pre_exposure_change,辽宁,High-Low,8,0.0056657223796034
+festival_pre_exposure_change,辽宁,Low-High,20,0.014164305949008499
+festival_pre_exposure_change,辽宁,Not significant,1179,0.8349858356940509
+festival_pre_exposure_change,辽宁,NoData,0,0.0
+festival_pre_exposure_change,重庆,High-High,46,0.057001239157372985
+festival_pre_exposure_change,重庆,Low-Low,50,0.061957868649318466
+festival_pre_exposure_change,重庆,High-Low,23,0.028500619578686492
+festival_pre_exposure_change,重庆,Low-High,3,0.0037174721189591076
+festival_pre_exposure_change,重庆,Not significant,685,0.8488228004956629
+festival_pre_exposure_change,重庆,NoData,0,0.0
+festival_pre_exposure_change,陕西,High-High,243,0.12291350531107739
+festival_pre_exposure_change,陕西,Low-Low,0,0.0
+festival_pre_exposure_change,陕西,High-Low,0,0.0
+festival_pre_exposure_change,陕西,Low-High,51,0.025796661608497723
+festival_pre_exposure_change,陕西,Not significant,1660,0.8396560445118867
+festival_pre_exposure_change,陕西,NoData,23,0.01163378856853819
+festival_pre_exposure_change,青海,High-High,0,0.0
+festival_pre_exposure_change,青海,Low-Low,57,0.02024866785079929
+festival_pre_exposure_change,青海,High-Low,0,0.0
+festival_pre_exposure_change,青海,Low-High,0,0.0
+festival_pre_exposure_change,青海,Not significant,1879,0.6674955595026643
+festival_pre_exposure_change,青海,NoData,879,0.3122557726465364
+festival_pre_exposure_change,香港,High-High,0,0.0
+festival_pre_exposure_change,香港,Low-Low,9,1.0
+festival_pre_exposure_change,香港,High-Low,0,0.0
+festival_pre_exposure_change,香港,Low-High,0,0.0
+festival_pre_exposure_change,香港,Not significant,0,0.0
+festival_pre_exposure_change,香港,NoData,0,0.0
+festival_pre_exposure_change,黑龙江,High-High,0,0.0
+festival_pre_exposure_change,黑龙江,Low-Low,196,0.051633298208640675
+festival_pre_exposure_change,黑龙江,High-Low,0,0.0
+festival_pre_exposure_change,黑龙江,Low-High,0,0.0
+festival_pre_exposure_change,黑龙江,Not significant,3308,0.8714436248682824
+festival_pre_exposure_change,黑龙江,NoData,292,0.07692307692307693

@@ -1,0 +1,205 @@
+﻿variable,province,lisa_cluster,grid_count,share_within_province
+post_festival_pollution_component,上海,High-High,42,0.711864406779661
+post_festival_pollution_component,上海,Low-Low,0,0.0
+post_festival_pollution_component,上海,High-Low,0,0.0
+post_festival_pollution_component,上海,Low-High,8,0.13559322033898305
+post_festival_pollution_component,上海,Not significant,9,0.15254237288135594
+post_festival_pollution_component,上海,NoData,0,0.0
+post_festival_pollution_component,云南,High-High,3699,0.9890374331550802
+post_festival_pollution_component,云南,Low-Low,1,0.00026737967914438503
+post_festival_pollution_component,云南,High-Low,1,0.00026737967914438503
+post_festival_pollution_component,云南,Low-High,6,0.0016042780748663102
+post_festival_pollution_component,云南,Not significant,33,0.008823529411764706
+post_festival_pollution_component,云南,NoData,0,0.0
+post_festival_pollution_component,内蒙古,High-High,6531,0.9196001126443255
+post_festival_pollution_component,内蒙古,Low-Low,0,0.0
+post_festival_pollution_component,内蒙古,High-Low,10,0.0014080540692762602
+post_festival_pollution_component,内蒙古,Low-High,11,0.0015488594762038863
+post_festival_pollution_component,内蒙古,Not significant,550,0.07744297381019431
+post_festival_pollution_component,内蒙古,NoData,0,0.0
+post_festival_pollution_component,北京,High-High,93,0.5886075949367089
+post_festival_pollution_component,北京,Low-Low,32,0.20253164556962025
+post_festival_pollution_component,北京,High-Low,9,0.056962025316455694
+post_festival_pollution_component,北京,Low-High,0,0.0
+post_festival_pollution_component,北京,Not significant,24,0.1518987341772152
+post_festival_pollution_component,北京,NoData,0,0.0
+post_festival_pollution_component,台湾,High-High,153,0.425
+post_festival_pollution_component,台湾,Low-Low,21,0.058333333333333334
+post_festival_pollution_component,台湾,High-Low,26,0.07222222222222222
+post_festival_pollution_component,台湾,Low-High,0,0.0
+post_festival_pollution_component,台湾,Not significant,160,0.4444444444444444
+post_festival_pollution_component,台湾,NoData,0,0.0
+post_festival_pollution_component,吉林,High-High,1760,0.995475113122172
+post_festival_pollution_component,吉林,Low-Low,0,0.0
+post_festival_pollution_component,吉林,High-Low,0,0.0
+post_festival_pollution_component,吉林,Low-High,2,0.0011312217194570137
+post_festival_pollution_component,吉林,Not significant,6,0.003393665158371041
+post_festival_pollution_component,吉林,NoData,0,0.0
+post_festival_pollution_component,四川,High-High,2008,0.5670714487432928
+post_festival_pollution_component,四川,Low-Low,834,0.23552668737644733
+post_festival_pollution_component,四川,High-Low,104,0.029370234397062978
+post_festival_pollution_component,四川,Low-High,5,0.001412030499858797
+post_festival_pollution_component,四川,Not significant,590,0.16661959898333803
+post_festival_pollution_component,四川,NoData,0,0.0
+post_festival_pollution_component,天津,High-High,1,0.008849557522123894
+post_festival_pollution_component,天津,Low-Low,79,0.6991150442477876
+post_festival_pollution_component,天津,High-Low,7,0.061946902654867256
+post_festival_pollution_component,天津,Low-High,0,0.0
+post_festival_pollution_component,天津,Not significant,26,0.23008849557522124
+post_festival_pollution_component,天津,NoData,0,0.0
+post_festival_pollution_component,宁夏,High-High,320,0.6625258799171843
+post_festival_pollution_component,宁夏,Low-Low,0,0.0
+post_festival_pollution_component,宁夏,High-Low,0,0.0
+post_festival_pollution_component,宁夏,Low-High,13,0.026915113871635612
+post_festival_pollution_component,宁夏,Not significant,150,0.3105590062111801
+post_festival_pollution_component,宁夏,NoData,0,0.0
+post_festival_pollution_component,安徽,High-High,114,0.08388520971302428
+post_festival_pollution_component,安徽,Low-Low,352,0.25901398086828553
+post_festival_pollution_component,安徽,High-Low,21,0.01545253863134658
+post_festival_pollution_component,安徽,Low-High,1,0.0007358351729212656
+post_festival_pollution_component,安徽,Not significant,871,0.6409124356144223
+post_festival_pollution_component,安徽,NoData,0,0.0
+post_festival_pollution_component,山东,High-High,409,0.27691266079891674
+post_festival_pollution_component,山东,Low-Low,560,0.3791469194312796
+post_festival_pollution_component,山东,High-Low,31,0.02098849018280298
+post_festival_pollution_component,山东,Low-High,7,0.004739336492890996
+post_festival_pollution_component,山东,Not significant,470,0.3182125930941097
+post_festival_pollution_component,山东,NoData,0,0.0
+post_festival_pollution_component,山西,High-High,596,0.3941798941798942
+post_festival_pollution_component,山西,Low-Low,293,0.19378306878306878
+post_festival_pollution_component,山西,High-Low,176,0.1164021164021164
+post_festival_pollution_component,山西,Low-High,7,0.004629629629629629
+post_festival_pollution_component,山西,Not significant,440,0.291005291005291
+post_festival_pollution_component,山西,NoData,0,0.0
+post_festival_pollution_component,广东,High-High,0,0.0
+post_festival_pollution_component,广东,Low-Low,447,0.25084175084175087
+post_festival_pollution_component,广东,High-Low,180,0.10101010101010101
+post_festival_pollution_component,广东,Low-High,0,0.0
+post_festival_pollution_component,广东,Not significant,1155,0.6481481481481481
+post_festival_pollution_component,广东,NoData,0,0.0
+post_festival_pollution_component,广西,High-High,437,0.18431041754533953
+post_festival_pollution_component,广西,Low-Low,520,0.2193167439898777
+post_festival_pollution_component,广西,High-Low,245,0.10333192745676929
+post_festival_pollution_component,广西,Low-High,6,0.0025305778152678194
+post_festival_pollution_component,广西,Not significant,1163,0.4905103331927457
+post_festival_pollution_component,广西,NoData,0,0.0
+post_festival_pollution_component,新疆,High-High,3407,0.7633878557024423
+post_festival_pollution_component,新疆,Low-Low,21,0.0047053551422809765
+post_festival_pollution_component,新疆,High-Low,57,0.01277167824333408
+post_festival_pollution_component,新疆,Low-High,9,0.002016580775263276
+post_festival_pollution_component,新疆,Not significant,969,0.21711853013667937
+post_festival_pollution_component,新疆,NoData,0,0.0
+post_festival_pollution_component,江苏,High-High,400,0.4098360655737705
+post_festival_pollution_component,江苏,Low-Low,141,0.1444672131147541
+post_festival_pollution_component,江苏,High-Low,8,0.00819672131147541
+post_festival_pollution_component,江苏,Low-High,15,0.015368852459016393
+post_festival_pollution_component,江苏,Not significant,412,0.42213114754098363
+post_festival_pollution_component,江苏,NoData,0,0.0
+post_festival_pollution_component,江西,High-High,3,0.0018181818181818182
+post_festival_pollution_component,江西,Low-Low,610,0.3696969696969697
+post_festival_pollution_component,江西,High-Low,211,0.12787878787878787
+post_festival_pollution_component,江西,Low-High,0,0.0
+post_festival_pollution_component,江西,Not significant,826,0.5006060606060606
+post_festival_pollution_component,江西,NoData,0,0.0
+post_festival_pollution_component,河北,High-High,863,0.47705914870093974
+post_festival_pollution_component,河北,Low-Low,681,0.37645107794361526
+post_festival_pollution_component,河北,High-Low,32,0.017689331122166942
+post_festival_pollution_component,河北,Low-High,0,0.0
+post_festival_pollution_component,河北,Not significant,233,0.12880044223327805
+post_festival_pollution_component,河北,NoData,0,0.0
+post_festival_pollution_component,河南,High-High,0,0.0
+post_festival_pollution_component,河南,Low-Low,1105,0.6914893617021277
+post_festival_pollution_component,河南,High-Low,74,0.04630788485607009
+post_festival_pollution_component,河南,Low-High,0,0.0
+post_festival_pollution_component,河南,Not significant,419,0.26220275344180227
+post_festival_pollution_component,河南,NoData,0,0.0
+post_festival_pollution_component,浙江,High-High,170,0.17
+post_festival_pollution_component,浙江,Low-Low,10,0.01
+post_festival_pollution_component,浙江,High-Low,3,0.003
+post_festival_pollution_component,浙江,Low-High,9,0.009
+post_festival_pollution_component,浙江,Not significant,808,0.808
+post_festival_pollution_component,浙江,NoData,0,0.0
+post_festival_pollution_component,海南,High-High,195,0.5555555555555556
+post_festival_pollution_component,海南,Low-Low,0,0.0
+post_festival_pollution_component,海南,High-Low,0,0.0
+post_festival_pollution_component,海南,Low-High,4,0.011396011396011397
+post_festival_pollution_component,海南,Not significant,152,0.43304843304843305
+post_festival_pollution_component,海南,NoData,0,0.0
+post_festival_pollution_component,湖北,High-High,162,0.08960176991150443
+post_festival_pollution_component,湖北,Low-Low,636,0.35176991150442477
+post_festival_pollution_component,湖北,High-Low,143,0.0790929203539823
+post_festival_pollution_component,湖北,Low-High,5,0.0027654867256637168
+post_festival_pollution_component,湖北,Not significant,862,0.47676991150442477
+post_festival_pollution_component,湖北,NoData,0,0.0
+post_festival_pollution_component,湖南,High-High,26,0.012458073790129372
+post_festival_pollution_component,湖南,Low-Low,1087,0.5208433157642549
+post_festival_pollution_component,湖南,High-Low,225,0.10781025395304264
+post_festival_pollution_component,湖南,Low-High,2,0.0009583133684714902
+post_festival_pollution_component,湖南,Not significant,747,0.3579300431241016
+post_festival_pollution_component,湖南,NoData,0,0.0
+post_festival_pollution_component,澳门,High-High,0,0.0
+post_festival_pollution_component,澳门,Low-Low,0,0.0
+post_festival_pollution_component,澳门,High-Low,1,1.0
+post_festival_pollution_component,澳门,Low-High,0,0.0
+post_festival_pollution_component,澳门,Not significant,0,0.0
+post_festival_pollution_component,澳门,NoData,0,0.0
+post_festival_pollution_component,甘肃,High-High,1721,0.6832076220722509
+post_festival_pollution_component,甘肃,Low-Low,2,0.0007939658594680428
+post_festival_pollution_component,甘肃,High-Low,0,0.0
+post_festival_pollution_component,甘肃,Low-High,25,0.009924573243350537
+post_festival_pollution_component,甘肃,Not significant,771,0.30607383882493056
+post_festival_pollution_component,甘肃,NoData,0,0.0
+post_festival_pollution_component,福建,High-High,124,0.10307564422277639
+post_festival_pollution_component,福建,Low-Low,110,0.0914380714879468
+post_festival_pollution_component,福建,High-Low,54,0.04488778054862843
+post_festival_pollution_component,福建,Low-High,11,0.00914380714879468
+post_festival_pollution_component,福建,Not significant,904,0.7514546965918537
+post_festival_pollution_component,福建,NoData,0,0.0
+post_festival_pollution_component,西藏,High-High,1933,0.8246587030716723
+post_festival_pollution_component,西藏,Low-Low,0,0.0
+post_festival_pollution_component,西藏,High-Low,19,0.008105802047781569
+post_festival_pollution_component,西藏,Low-High,3,0.001279863481228669
+post_festival_pollution_component,西藏,Not significant,389,0.1659556313993174
+post_festival_pollution_component,西藏,NoData,0,0.0
+post_festival_pollution_component,贵州,High-High,786,0.4509466437177281
+post_festival_pollution_component,贵州,Low-Low,0,0.0
+post_festival_pollution_component,贵州,High-Low,4,0.002294893861158921
+post_festival_pollution_component,贵州,Low-High,30,0.01721170395869191
+post_festival_pollution_component,贵州,Not significant,923,0.5295467584624212
+post_festival_pollution_component,贵州,NoData,0,0.0
+post_festival_pollution_component,辽宁,High-High,978,0.6926345609065155
+post_festival_pollution_component,辽宁,Low-Low,13,0.009206798866855524
+post_festival_pollution_component,辽宁,High-Low,16,0.0113314447592068
+post_festival_pollution_component,辽宁,Low-High,10,0.007082152974504249
+post_festival_pollution_component,辽宁,Not significant,395,0.2797450424929179
+post_festival_pollution_component,辽宁,NoData,0,0.0
+post_festival_pollution_component,重庆,High-High,43,0.05328376703841388
+post_festival_pollution_component,重庆,Low-Low,263,0.32589838909541513
+post_festival_pollution_component,重庆,High-Low,72,0.08921933085501858
+post_festival_pollution_component,重庆,Low-High,2,0.0024783147459727386
+post_festival_pollution_component,重庆,Not significant,427,0.5291201982651796
+post_festival_pollution_component,重庆,NoData,0,0.0
+post_festival_pollution_component,陕西,High-High,915,0.4685099846390169
+post_festival_pollution_component,陕西,Low-Low,220,0.11264720942140297
+post_festival_pollution_component,陕西,High-Low,63,0.03225806451612903
+post_festival_pollution_component,陕西,Low-High,13,0.006656426011264721
+post_festival_pollution_component,陕西,Not significant,742,0.37992831541218636
+post_festival_pollution_component,陕西,NoData,0,0.0
+post_festival_pollution_component,青海,High-High,1520,0.7941483803552769
+post_festival_pollution_component,青海,Low-Low,0,0.0
+post_festival_pollution_component,青海,High-Low,9,0.004702194357366771
+post_festival_pollution_component,青海,Low-High,5,0.002612330198537095
+post_festival_pollution_component,青海,Not significant,380,0.19853709508881923
+post_festival_pollution_component,青海,NoData,0,0.0
+post_festival_pollution_component,香港,High-High,0,0.0
+post_festival_pollution_component,香港,Low-Low,7,0.7777777777777778
+post_festival_pollution_component,香港,High-Low,2,0.2222222222222222
+post_festival_pollution_component,香港,Low-High,0,0.0
+post_festival_pollution_component,香港,Not significant,0,0.0
+post_festival_pollution_component,香港,NoData,0,0.0
+post_festival_pollution_component,黑龙江,High-High,3323,0.9526949541284404
+post_festival_pollution_component,黑龙江,Low-Low,0,0.0
+post_festival_pollution_component,黑龙江,High-Low,1,0.00028669724770642203
+post_festival_pollution_component,黑龙江,Low-High,3,0.0008600917431192661
+post_festival_pollution_component,黑龙江,Not significant,161,0.046158256880733946
+post_festival_pollution_component,黑龙江,NoData,0,0.0

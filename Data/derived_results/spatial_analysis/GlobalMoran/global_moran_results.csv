@@ -1,0 +1,3 @@
+﻿variable,comparison,moran_i,expected_i,z_score,p_value,permutations,n_grids,weight_method,projected_crs,distance_threshold_m,row_standardization,island_count,random_seed
+festival_pre_exposure_change,festival_pre,0.34983374725000915,-1.6890180049319325e-05,359.2575917702823,0.001,999,59207,DistanceBand,EPSG:3857,50000.0,r,63,
+post_festival_exposure_change,post_festival,0.3035510536173346,-1.6570832021475797e-05,297.401319309761,0.001,999,60348,DistanceBand,EPSG:3857,50000.0,r,65,

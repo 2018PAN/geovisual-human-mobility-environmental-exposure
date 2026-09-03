@@ -1,0 +1,7 @@
+﻿variable,cluster,grid_count,share
+post_festival_pollution_component,High-High,32732,0.5551560379918589
+post_festival_pollution_component,Low-Low,8045,0.1364484396200814
+post_festival_pollution_component,High-Low,1804,0.030597014925373135
+post_festival_pollution_component,Low-High,212,0.0035956580732700136
+post_festival_pollution_component,Not significant,16167,0.2742028493894166
+post_festival_pollution_component,NoData,0,0.0

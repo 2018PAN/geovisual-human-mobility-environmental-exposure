@@ -1,0 +1,7 @@
+﻿variable,cluster,grid_count,share
+festival_pre_mobility_component,High-High,10313,0.17491519674355496
+festival_pre_mobility_component,Low-Low,1305,0.022133649932157395
+festival_pre_mobility_component,High-Low,1142,0.019369063772048847
+festival_pre_mobility_component,Low-High,758,0.0128561736770692
+festival_pre_mobility_component,Not significant,45442,0.7707259158751696
+festival_pre_mobility_component,NoData,0,0.0

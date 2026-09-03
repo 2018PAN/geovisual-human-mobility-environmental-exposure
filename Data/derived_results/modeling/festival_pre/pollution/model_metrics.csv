@@ -1,0 +1,5 @@
+﻿comparison,analysis_target,model,r2,rmse,mae,n_train,n_test,n_features,features
+festival_pre,pollution,B0_RF,0.13964053463577975,85537558.93940407,19547831.583508544,28161,12069,3,pre_mean_pm25 | road_density_m_per_km2 | gdp_2018
+festival_pre,pollution,B0_XGBoost,0.04566402672943537,90088121.06273079,20607475.732035454,28161,12069,3,pre_mean_pm25 | road_density_m_per_km2 | gdp_2018
+festival_pre,pollution,B1_RF,0.630569463481991,56050988.6255356,10550883.42096493,28161,12069,10,pre_mean_pm25 | pre_count_cv | pre_day_night_ratio | pre_daily_relative_amplitude | festival_pre_temperature_change | festival_pre_precipitation_change | festival_pre_wind_speed_change | road_density_m_per_km2 | built_up_ratio | nighttime_light_2018
+festival_pre,pollution,B1_XGBoost,0.6030557378835364,58100737.61835785,11909244.891278477,28161,12069,10,pre_mean_pm25 | pre_count_cv | pre_day_night_ratio | pre_daily_relative_amplitude | festival_pre_temperature_change | festival_pre_precipitation_change | festival_pre_wind_speed_change | road_density_m_per_km2 | built_up_ratio | nighttime_light_2018

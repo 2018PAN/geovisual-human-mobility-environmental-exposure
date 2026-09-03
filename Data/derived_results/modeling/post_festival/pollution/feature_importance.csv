@@ -1,0 +1,11 @@
+﻿comparison,analysis_target,feature,xgboost_importance,random_forest_importance
+post_festival,pollution,festival_mean_pm25,0.16731535,0.24314616720425822
+post_festival,pollution,festival_daily_relative_amplitude,0.16541116,0.23987772168250068
+post_festival,pollution,built_up_ratio,0.1546608,0.18617118774262767
+post_festival,pollution,festival_count_cv,0.09016526,0.05168642709222014
+post_festival,pollution,road_density_m_per_km2,0.08603382,0.07879845717571142
+post_festival,pollution,post_festival_temperature_change,0.07386936,0.06392424950976086
+post_festival,pollution,post_festival_precipitation_change,0.071641795,0.03586524798434517
+post_festival,pollution,post_festival_wind_speed_change,0.07117182,0.03884611199368884
+post_festival,pollution,nighttime_light_2018,0.06627435,0.041442457235682115
+post_festival,pollution,festival_day_night_ratio,0.05345628,0.02024197237920465

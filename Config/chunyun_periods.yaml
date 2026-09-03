@@ -1,0 +1,24 @@
+{
+  "date_basis": "Beijing local_date",
+  "timezone": "Asia/Shanghai",
+  "periods": {
+    "pre": {
+      "label": "Pre-festival",
+      "start": "2018-02-01",
+      "end": "2018-02-14",
+      "expected_days": 14
+    },
+    "festival": {
+      "label": "Festival holiday",
+      "start": "2018-02-15",
+      "end": "2018-02-21",
+      "expected_days": 7
+    },
+    "post": {
+      "label": "Post-festival",
+      "start": "2018-02-22",
+      "end": "2018-03-12",
+      "expected_days": 19
+    }
+  }
+}

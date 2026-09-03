@@ -1,0 +1,319 @@
+{
+  "formal_fields": {
+    "population": "hourly_population",
+    "exposure": "hourly_exposure",
+    "population_weighted_pm25": "population_weighted_pm25"
+  },
+  "coverage": {
+    "include_incomplete_hours_default": true,
+    "minimum_hour_coverage_ratio_default": 0.0,
+    "expected_samples_per_hour": 12,
+    "severely_incomplete_local_dates": [
+      "2018-02-01"
+    ]
+  },
+  "aggregation": {
+    "hour_to_day_population": "sum",
+    "hour_to_day_exposure": "sum",
+    "hour_to_day_pm25": "arithmetic_mean",
+    "daily_population_weighted_pm25": "daily_exposure / daily_population",
+    "day_to_period": "arithmetic_mean",
+    "period_change": "comparison minus baseline"
+  },
+  "spatial_analysis": {
+    "variables": [
+      "festival_pre_exposure_change",
+      "post_festival_exposure_change"
+    ],
+    "weight_method": "DistanceBand",
+    "projected_crs": "EPSG:3857",
+    "threshold_m": 50000,
+    "row_standardization": "r",
+    "permutations": 999,
+    "random_seed": null,
+    "significance_level": 0.05,
+    "filter_to_china_boundary": true,
+    "cluster_order": [
+      "High-High",
+      "Low-Low",
+      "High-Low",
+      "Low-High",
+      "Not significant",
+      "NoData"
+    ],
+    "cluster_colors": {
+      "High-High": "#B84C55",
+      "Low-Low": "#3F72A8",
+      "High-Low": "#D99066",
+      "Low-High": "#78A6B8",
+      "Not significant": "#D8D8D8",
+      "NoData": "#ECECEC"
+    }
+  },
+  "decomposition": {
+    "formula": "E = P * C",
+    "mobility_component": "C0 * (P1 - P0)",
+    "pollution_component": "P0 * (C1 - C0)",
+    "interaction_component": "(P1 - P0) * (C1 - C0)",
+    "contrasts": {
+      "festival_pre": {
+        "baseline": "pre",
+        "comparison": "festival"
+      },
+      "post_festival": {
+        "baseline": "festival",
+        "comparison": "post"
+      }
+    }
+  },
+  "modeling": {
+    "comparisons": {
+      "festival_pre": {
+        "target": "festival_pre_exposure_change",
+        "prefix": "festival_pre_total_exposure",
+        "b0_features_with_gdp": [
+          "festival_pre_count_change",
+          "pre_mean_count",
+          "pre_mean_pm25",
+          "gdp_2018",
+          "road_density_m_per_km2"
+        ],
+        "b0_features_without_gdp": [
+          "festival_pre_count_change",
+          "pre_mean_count",
+          "pre_mean_pm25",
+          "road_density_m_per_km2"
+        ],
+        "b1_features": [
+          "festival_pre_count_change",
+          "pre_mean_count",
+          "pre_count_cv",
+          "pre_day_night_ratio",
+          "pre_daily_relative_amplitude",
+          "pre_mean_pm25",
+          "festival_pre_pm25_change",
+          "festival_pre_temperature_change",
+          "festival_pre_precipitation_change",
+          "festival_pre_wind_speed_change",
+          "road_density_m_per_km2",
+          "built_up_ratio",
+          "nighttime_light_2018"
+        ]
+      },
+      "post_festival": {
+        "target": "post_festival_exposure_change",
+        "prefix": "post_festival_total_exposure",
+        "b0_features_with_gdp": [
+          "post_festival_count_change",
+          "festival_mean_count",
+          "festival_mean_pm25",
+          "road_density_m_per_km2"
+        ],
+        "b0_features_without_gdp": [
+          "post_festival_count_change",
+          "festival_mean_count",
+          "festival_mean_pm25",
+          "road_density_m_per_km2"
+        ],
+        "b1_features": [
+          "post_festival_count_change",
+          "festival_mean_count",
+          "festival_count_cv",
+          "festival_day_night_ratio",
+          "festival_daily_relative_amplitude",
+          "festival_mean_pm25",
+          "post_festival_pm25_change",
+          "post_festival_temperature_change",
+          "post_festival_precipitation_change",
+          "post_festival_wind_speed_change",
+          "road_density_m_per_km2",
+          "built_up_ratio",
+          "nighttime_light_2018"
+        ]
+      }
+    },
+    "random_state": 42,
+    "test_size": 0.3,
+    "minimum_complete_rows": 100,
+    "minimum_complete_case_rate": 0.5,
+    "gdp_baseline_coverage_threshold": 0.9,
+    "spatial_block_size_m": 300000,
+    "spatial_folds": 5,
+    "random_forest": {
+      "n_estimators": 300,
+      "min_samples_leaf": 5,
+      "random_state": 42,
+      "n_jobs": -1
+    },
+    "xgboost": {
+      "n_estimators": 800,
+      "learning_rate": 0.03,
+      "max_depth": 5,
+      "min_child_weight": 5,
+      "subsample": 0.8,
+      "colsample_bytree": 0.8,
+      "reg_alpha": 0.1,
+      "reg_lambda": 1.0,
+      "objective": "reg:squarederror",
+      "random_state": 42,
+      "n_jobs": -1
+    },
+    "early_stopping": null,
+    "winsorization": null,
+    "standardization": false,
+    "log_transform": false,
+    "shap": {
+      "explainer": "TreeExplainer",
+      "check_additivity": false
+    }
+  },
+  "component_modeling": {
+    "mobility": {
+      "festival_pre": {
+        "target": "festival_pre_mobility_component",
+        "prefix": "festival_pre_mobility",
+        "b0_features_with_gdp": [
+          "pre_mean_count",
+          "road_density_m_per_km2",
+          "gdp_2018"
+        ],
+        "b0_features_without_gdp": [
+          "pre_mean_count",
+          "road_density_m_per_km2"
+        ],
+        "b1_features": [
+          "pre_mean_count",
+          "pre_count_cv",
+          "pre_day_night_ratio",
+          "pre_daily_relative_amplitude",
+          "festival_pre_temperature_change",
+          "festival_pre_precipitation_change",
+          "festival_pre_wind_speed_change",
+          "road_density_m_per_km2",
+          "built_up_ratio",
+          "nighttime_light_2018"
+        ],
+        "accounting_features": []
+      },
+      "post_festival": {
+        "target": "post_festival_mobility_component",
+        "prefix": "post_festival_mobility",
+        "b0_features_with_gdp": [
+          "festival_mean_count",
+          "road_density_m_per_km2",
+          "gdp_2018"
+        ],
+        "b0_features_without_gdp": [
+          "festival_mean_count",
+          "road_density_m_per_km2"
+        ],
+        "b1_features": [
+          "festival_mean_count",
+          "festival_count_cv",
+          "festival_day_night_ratio",
+          "festival_daily_relative_amplitude",
+          "post_festival_temperature_change",
+          "post_festival_precipitation_change",
+          "post_festival_wind_speed_change",
+          "road_density_m_per_km2",
+          "built_up_ratio",
+          "nighttime_light_2018"
+        ],
+        "accounting_features": []
+      }
+    },
+    "pollution": {
+      "festival_pre": {
+        "target": "festival_pre_pollution_component",
+        "prefix": "festival_pre_pollution",
+        "b0_features_with_gdp": [
+          "pre_mean_pm25",
+          "road_density_m_per_km2",
+          "gdp_2018"
+        ],
+        "b0_features_without_gdp": [
+          "pre_mean_pm25",
+          "road_density_m_per_km2"
+        ],
+        "b1_features": [
+          "pre_mean_pm25",
+          "pre_count_cv",
+          "pre_day_night_ratio",
+          "pre_daily_relative_amplitude",
+          "festival_pre_temperature_change",
+          "festival_pre_precipitation_change",
+          "festival_pre_wind_speed_change",
+          "road_density_m_per_km2",
+          "built_up_ratio",
+          "nighttime_light_2018"
+        ],
+        "accounting_features": [
+          "pre_mean_count",
+          "festival_pre_pm25_change"
+        ],
+        "accounting_baseline_population": "pre_mean_count",
+        "accounting_pm25_change": "festival_pre_pm25_change"
+      },
+      "post_festival": {
+        "target": "post_festival_pollution_component",
+        "prefix": "post_festival_pollution",
+        "b0_features_with_gdp": [
+          "festival_mean_pm25",
+          "road_density_m_per_km2",
+          "gdp_2018"
+        ],
+        "b0_features_without_gdp": [
+          "festival_mean_pm25",
+          "road_density_m_per_km2"
+        ],
+        "b1_features": [
+          "festival_mean_pm25",
+          "festival_count_cv",
+          "festival_day_night_ratio",
+          "festival_daily_relative_amplitude",
+          "post_festival_temperature_change",
+          "post_festival_precipitation_change",
+          "post_festival_wind_speed_change",
+          "road_density_m_per_km2",
+          "built_up_ratio",
+          "nighttime_light_2018"
+        ],
+        "accounting_features": [
+          "festival_mean_count",
+          "post_festival_pm25_change"
+        ],
+        "accounting_baseline_population": "festival_mean_count",
+        "accounting_pm25_change": "post_festival_pm25_change"
+      }
+    }
+  },
+  "plotting": {
+    "dpi_maps": 600,
+    "dpi_models": 300,
+    "font_family": "Arial",
+    "main_extent_lonlat": [
+      73,
+      135,
+      18,
+      54
+    ],
+    "south_china_sea_extent_lonlat": [
+      105,
+      125,
+      3,
+      23
+    ],
+    "south_china_sea_inset_bounds": [
+      0.785,
+      0.055,
+      0.19,
+      0.28
+    ],
+    "diverging_cmap": "thesis_soft_diverging",
+    "sequential_cmap": "cividis",
+    "robust_percentiles": [
+      2,
+      98
+    ]
+  }
+}

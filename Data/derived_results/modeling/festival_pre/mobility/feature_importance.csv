@@ -1,0 +1,11 @@
+﻿comparison,analysis_target,feature,xgboost_importance,random_forest_importance
+festival_pre,mobility,pre_mean_count,0.41761926,0.82962903650998
+festival_pre,mobility,built_up_ratio,0.12917277,0.0038994222054375906
+festival_pre,mobility,road_density_m_per_km2,0.09539178,0.024710293315020164
+festival_pre,mobility,pre_day_night_ratio,0.09317971,0.008866113045627958
+festival_pre,mobility,pre_count_cv,0.06945625,0.04645004892264873
+festival_pre,mobility,festival_pre_wind_speed_change,0.064665414,0.04058456373597908
+festival_pre,mobility,pre_daily_relative_amplitude,0.040948913,0.01561398776682352
+festival_pre,mobility,festival_pre_precipitation_change,0.040018264,0.02080670239041384
+festival_pre,mobility,nighttime_light_2018,0.027805485,0.005332995217350695
+festival_pre,mobility,festival_pre_temperature_change,0.021742156,0.004106836890718477

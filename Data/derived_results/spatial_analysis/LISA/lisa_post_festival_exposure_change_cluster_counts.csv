@@ -1,0 +1,7 @@
+﻿variable,cluster,grid_count,share
+post_festival_exposure_change,High-High,2667,0.03987739234449761
+post_festival_exposure_change,Low-Low,9778,0.14620215311004783
+post_festival_exposure_change,High-Low,1634,0.024431818181818183
+post_festival_exposure_change,Low-High,540,0.008074162679425838
+post_festival_exposure_change,Not significant,45729,0.683747009569378
+post_festival_exposure_change,NoData,6532,0.09766746411483254

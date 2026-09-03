@@ -1,0 +1,205 @@
+﻿variable,province,lisa_cluster,grid_count,share_within_province
+post_festival_mobility_component,上海,High-High,50,0.847457627118644
+post_festival_mobility_component,上海,Low-Low,0,0.0
+post_festival_mobility_component,上海,High-Low,0,0.0
+post_festival_mobility_component,上海,Low-High,9,0.15254237288135594
+post_festival_mobility_component,上海,Not significant,0,0.0
+post_festival_mobility_component,上海,NoData,0,0.0
+post_festival_mobility_component,云南,High-High,56,0.014973262032085561
+post_festival_mobility_component,云南,Low-Low,3,0.0008021390374331551
+post_festival_mobility_component,云南,High-Low,0,0.0
+post_festival_mobility_component,云南,Low-High,26,0.006951871657754011
+post_festival_mobility_component,云南,Not significant,3655,0.9772727272727273
+post_festival_mobility_component,云南,NoData,0,0.0
+post_festival_mobility_component,内蒙古,High-High,24,0.0033793297662630243
+post_festival_mobility_component,内蒙古,Low-Low,0,0.0
+post_festival_mobility_component,内蒙古,High-Low,10,0.0014080540692762602
+post_festival_mobility_component,内蒙古,Low-High,17,0.0023936919177696423
+post_festival_mobility_component,内蒙古,Not significant,7051,0.992818924246691
+post_festival_mobility_component,内蒙古,NoData,0,0.0
+post_festival_mobility_component,北京,High-High,63,0.3987341772151899
+post_festival_mobility_component,北京,Low-Low,1,0.006329113924050633
+post_festival_mobility_component,北京,High-Low,0,0.0
+post_festival_mobility_component,北京,Low-High,20,0.12658227848101267
+post_festival_mobility_component,北京,Not significant,74,0.46835443037974683
+post_festival_mobility_component,北京,NoData,0,0.0
+post_festival_mobility_component,台湾,High-High,0,0.0
+post_festival_mobility_component,台湾,Low-Low,60,0.16666666666666666
+post_festival_mobility_component,台湾,High-Low,19,0.05277777777777778
+post_festival_mobility_component,台湾,Low-High,0,0.0
+post_festival_mobility_component,台湾,Not significant,281,0.7805555555555556
+post_festival_mobility_component,台湾,NoData,0,0.0
+post_festival_mobility_component,吉林,High-High,20,0.011312217194570135
+post_festival_mobility_component,吉林,Low-Low,0,0.0
+post_festival_mobility_component,吉林,High-Low,0,0.0
+post_festival_mobility_component,吉林,Low-High,17,0.009615384615384616
+post_festival_mobility_component,吉林,Not significant,1731,0.9790723981900452
+post_festival_mobility_component,吉林,NoData,0,0.0
+post_festival_mobility_component,四川,High-High,55,0.015532335498446766
+post_festival_mobility_component,四川,Low-Low,780,0.22027675797797233
+post_festival_mobility_component,四川,High-Low,24,0.006777746399322226
+post_festival_mobility_component,四川,Low-High,57,0.016097147698390286
+post_festival_mobility_component,四川,Not significant,2625,0.7413160124258684
+post_festival_mobility_component,四川,NoData,0,0.0
+post_festival_mobility_component,天津,High-High,45,0.39823008849557523
+post_festival_mobility_component,天津,Low-Low,19,0.168141592920354
+post_festival_mobility_component,天津,High-Low,1,0.008849557522123894
+post_festival_mobility_component,天津,Low-High,23,0.20353982300884957
+post_festival_mobility_component,天津,Not significant,25,0.22123893805309736
+post_festival_mobility_component,天津,NoData,0,0.0
+post_festival_mobility_component,宁夏,High-High,8,0.016563146997929608
+post_festival_mobility_component,宁夏,Low-Low,0,0.0
+post_festival_mobility_component,宁夏,High-Low,0,0.0
+post_festival_mobility_component,宁夏,Low-High,10,0.020703933747412008
+post_festival_mobility_component,宁夏,Not significant,465,0.9627329192546584
+post_festival_mobility_component,宁夏,NoData,0,0.0
+post_festival_mobility_component,安徽,High-High,21,0.01545253863134658
+post_festival_mobility_component,安徽,Low-Low,726,0.5342163355408388
+post_festival_mobility_component,安徽,High-Low,36,0.026490066225165563
+post_festival_mobility_component,安徽,Low-High,63,0.046357615894039736
+post_festival_mobility_component,安徽,Not significant,513,0.37748344370860926
+post_festival_mobility_component,安徽,NoData,0,0.0
+post_festival_mobility_component,山东,High-High,38,0.025727826675693975
+post_festival_mobility_component,山东,Low-Low,820,0.5551794177386594
+post_festival_mobility_component,山东,High-Low,55,0.037237643872714964
+post_festival_mobility_component,山东,Low-High,41,0.027758970886932972
+post_festival_mobility_component,山东,Not significant,523,0.35409614082599866
+post_festival_mobility_component,山东,NoData,0,0.0
+post_festival_mobility_component,山西,High-High,29,0.01917989417989418
+post_festival_mobility_component,山西,Low-Low,310,0.20502645502645503
+post_festival_mobility_component,山西,High-Low,60,0.03968253968253968
+post_festival_mobility_component,山西,Low-High,28,0.018518518518518517
+post_festival_mobility_component,山西,Not significant,1085,0.7175925925925926
+post_festival_mobility_component,山西,NoData,0,0.0
+post_festival_mobility_component,广东,High-High,225,0.12626262626262627
+post_festival_mobility_component,广东,Low-Low,548,0.3075196408529742
+post_festival_mobility_component,广东,High-Low,38,0.02132435465768799
+post_festival_mobility_component,广东,Low-High,62,0.03479236812570146
+post_festival_mobility_component,广东,Not significant,909,0.51010101010101
+post_festival_mobility_component,广东,NoData,0,0.0
+post_festival_mobility_component,广西,High-High,17,0.007169970476592155
+post_festival_mobility_component,广西,Low-Low,650,0.2741459299873471
+post_festival_mobility_component,广西,High-Low,42,0.017714044706874738
+post_festival_mobility_component,广西,Low-High,52,0.021931674398987768
+post_festival_mobility_component,广西,Not significant,1610,0.6790383804301983
+post_festival_mobility_component,广西,NoData,0,0.0
+post_festival_mobility_component,新疆,High-High,33,0.007394129509298678
+post_festival_mobility_component,新疆,Low-Low,0,0.0
+post_festival_mobility_component,新疆,High-Low,18,0.004033161550526552
+post_festival_mobility_component,新疆,Low-High,10,0.002240645305848084
+post_festival_mobility_component,新疆,Not significant,4402,0.9863320636343267
+post_festival_mobility_component,新疆,NoData,0,0.0
+post_festival_mobility_component,江苏,High-High,181,0.18545081967213115
+post_festival_mobility_component,江苏,Low-Low,505,0.5174180327868853
+post_festival_mobility_component,江苏,High-Low,43,0.04405737704918033
+post_festival_mobility_component,江苏,Low-High,41,0.042008196721311473
+post_festival_mobility_component,江苏,Not significant,206,0.21106557377049182
+post_festival_mobility_component,江苏,NoData,0,0.0
+post_festival_mobility_component,江西,High-High,14,0.008484848484848486
+post_festival_mobility_component,江西,Low-Low,688,0.416969696969697
+post_festival_mobility_component,江西,High-Low,55,0.03333333333333333
+post_festival_mobility_component,江西,Low-High,35,0.021212121212121213
+post_festival_mobility_component,江西,Not significant,858,0.52
+post_festival_mobility_component,江西,NoData,0,0.0
+post_festival_mobility_component,河北,High-High,29,0.016030956329463792
+post_festival_mobility_component,河北,Low-Low,620,0.3427307904919845
+post_festival_mobility_component,河北,High-Low,31,0.017136539524599224
+post_festival_mobility_component,河北,Low-High,50,0.027639579878385848
+post_festival_mobility_component,河北,Not significant,1079,0.5964621337755666
+post_festival_mobility_component,河北,NoData,0,0.0
+post_festival_mobility_component,河南,High-High,28,0.017521902377972465
+post_festival_mobility_component,河南,Low-Low,1237,0.7740926157697121
+post_festival_mobility_component,河南,High-Low,71,0.044430538172715896
+post_festival_mobility_component,河南,Low-High,42,0.026282853566958697
+post_festival_mobility_component,河南,Not significant,220,0.1376720901126408
+post_festival_mobility_component,河南,NoData,0,0.0
+post_festival_mobility_component,浙江,High-High,230,0.23
+post_festival_mobility_component,浙江,Low-Low,13,0.013
+post_festival_mobility_component,浙江,High-Low,2,0.002
+post_festival_mobility_component,浙江,Low-High,116,0.116
+post_festival_mobility_component,浙江,Not significant,639,0.639
+post_festival_mobility_component,浙江,NoData,0,0.0
+post_festival_mobility_component,海南,High-High,2,0.005698005698005698
+post_festival_mobility_component,海南,Low-Low,0,0.0
+post_festival_mobility_component,海南,High-Low,0,0.0
+post_festival_mobility_component,海南,Low-High,5,0.014245014245014245
+post_festival_mobility_component,海南,Not significant,344,0.98005698005698
+post_festival_mobility_component,海南,NoData,0,0.0
+post_festival_mobility_component,湖北,High-High,32,0.017699115044247787
+post_festival_mobility_component,湖北,Low-Low,742,0.4103982300884956
+post_festival_mobility_component,湖北,High-Low,34,0.018805309734513276
+post_festival_mobility_component,湖北,Low-High,53,0.0293141592920354
+post_festival_mobility_component,湖北,Not significant,947,0.5237831858407079
+post_festival_mobility_component,湖北,NoData,0,0.0
+post_festival_mobility_component,湖南,High-High,31,0.014853857211308098
+post_festival_mobility_component,湖南,Low-Low,1058,0.5069477719214183
+post_festival_mobility_component,湖南,High-Low,56,0.026832774317201723
+post_festival_mobility_component,湖南,Low-High,63,0.03018687110685194
+post_festival_mobility_component,湖南,Not significant,879,0.42117872544321994
+post_festival_mobility_component,湖南,NoData,0,0.0
+post_festival_mobility_component,澳门,High-High,1,1.0
+post_festival_mobility_component,澳门,Low-Low,0,0.0
+post_festival_mobility_component,澳门,High-Low,0,0.0
+post_festival_mobility_component,澳门,Low-High,0,0.0
+post_festival_mobility_component,澳门,Not significant,0,0.0
+post_festival_mobility_component,澳门,NoData,0,0.0
+post_festival_mobility_component,甘肃,High-High,20,0.007939658594680429
+post_festival_mobility_component,甘肃,Low-Low,49,0.01945216355696705
+post_festival_mobility_component,甘肃,High-Low,3,0.0011909487892020642
+post_festival_mobility_component,甘肃,Low-High,23,0.009130607383882492
+post_festival_mobility_component,甘肃,Not significant,2424,0.962286621675268
+post_festival_mobility_component,甘肃,NoData,0,0.0
+post_festival_mobility_component,福建,High-High,65,0.05403158769742311
+post_festival_mobility_component,福建,Low-Low,74,0.06151288445552785
+post_festival_mobility_component,福建,High-Low,9,0.007481296758104738
+post_festival_mobility_component,福建,Low-High,65,0.05403158769742311
+post_festival_mobility_component,福建,Not significant,990,0.8229426433915212
+post_festival_mobility_component,福建,NoData,0,0.0
+post_festival_mobility_component,西藏,High-High,0,0.0
+post_festival_mobility_component,西藏,Low-Low,0,0.0
+post_festival_mobility_component,西藏,High-Low,19,0.008105802047781569
+post_festival_mobility_component,西藏,Low-High,0,0.0
+post_festival_mobility_component,西藏,Not significant,2325,0.9918941979522184
+post_festival_mobility_component,西藏,NoData,0,0.0
+post_festival_mobility_component,贵州,High-High,24,0.013769363166953529
+post_festival_mobility_component,贵州,Low-Low,4,0.002294893861158921
+post_festival_mobility_component,贵州,High-Low,0,0.0
+post_festival_mobility_component,贵州,Low-High,44,0.025243832472748137
+post_festival_mobility_component,贵州,Not significant,1671,0.9586919104991394
+post_festival_mobility_component,贵州,NoData,0,0.0
+post_festival_mobility_component,辽宁,High-High,38,0.026912181303116147
+post_festival_mobility_component,辽宁,Low-Low,0,0.0
+post_festival_mobility_component,辽宁,High-Low,0,0.0
+post_festival_mobility_component,辽宁,Low-High,30,0.021246458923512748
+post_festival_mobility_component,辽宁,Not significant,1344,0.9518413597733711
+post_festival_mobility_component,辽宁,NoData,0,0.0
+post_festival_mobility_component,重庆,High-High,38,0.04708798017348203
+post_festival_mobility_component,重庆,Low-Low,313,0.3878562577447336
+post_festival_mobility_component,重庆,High-Low,11,0.013630731102850062
+post_festival_mobility_component,重庆,Low-High,45,0.055762081784386616
+post_festival_mobility_component,重庆,Not significant,400,0.49566294919454773
+post_festival_mobility_component,重庆,NoData,0,0.0
+post_festival_mobility_component,陕西,High-High,32,0.01638504864311316
+post_festival_mobility_component,陕西,Low-Low,196,0.1003584229390681
+post_festival_mobility_component,陕西,High-Low,35,0.017921146953405017
+post_festival_mobility_component,陕西,Low-High,41,0.020993343573988736
+post_festival_mobility_component,陕西,Not significant,1649,0.844342037890425
+post_festival_mobility_component,陕西,NoData,0,0.0
+post_festival_mobility_component,青海,High-High,0,0.0
+post_festival_mobility_component,青海,Low-Low,0,0.0
+post_festival_mobility_component,青海,High-Low,9,0.004702194357366771
+post_festival_mobility_component,青海,Low-High,0,0.0
+post_festival_mobility_component,青海,Not significant,1905,0.9952978056426333
+post_festival_mobility_component,青海,NoData,0,0.0
+post_festival_mobility_component,香港,High-High,7,0.7777777777777778
+post_festival_mobility_component,香港,Low-Low,0,0.0
+post_festival_mobility_component,香港,High-Low,0,0.0
+post_festival_mobility_component,香港,Low-High,2,0.2222222222222222
+post_festival_mobility_component,香港,Not significant,0,0.0
+post_festival_mobility_component,香港,NoData,0,0.0
+post_festival_mobility_component,黑龙江,High-High,16,0.0045871559633027525
+post_festival_mobility_component,黑龙江,Low-Low,0,0.0
+post_festival_mobility_component,黑龙江,High-Low,1,0.00028669724770642203
+post_festival_mobility_component,黑龙江,Low-High,28,0.008027522935779817
+post_festival_mobility_component,黑龙江,Not significant,3443,0.987098623853211
+post_festival_mobility_component,黑龙江,NoData,0,0.0

@@ -1,0 +1,41 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Local logs, caches, and generated figures
+Logs/
+Output/
+Figures/
+*.log
+
+# Confidential or non-redistributable data locations
+Data/raw/
+Data/private/
+Data/intermediate/
+Data/**/[Pp]opulation*/
+
+# Raw, grid-level, model, and archive formats are not accepted in Data/
+Data/**/*.parquet
+Data/**/*.pq
+Data/**/*.feather
+Data/**/*.arrow
+Data/**/*.nc
+Data/**/*.tif
+Data/**/*.tiff
+Data/**/*.joblib
+Data/**/*.pkl
+Data/**/*.pickle
+Data/**/*.zip
+Data/**/*.7z
+Data/**/*.gz
+Data/**/*.bz2
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
